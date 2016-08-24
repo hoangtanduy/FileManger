@@ -12,7 +12,5 @@
     "current_version":"22",
     "allowed_version":"19",
     "disabllowed_min":"19",
-    "disabllowed_max":"22",
-    "current_ver":"1",
-    "allowed_ver":"0"
+    "disabllowed_max":"22"
 }
