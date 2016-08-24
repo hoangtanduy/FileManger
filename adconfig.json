@@ -10,7 +10,7 @@
     "packageapp":"",
     "adsapp":"",
     "current_version":"23",
-    "allowed_version":"19",
-    "disabllowed_min":"19",
+    "allowed_version":"20",
+    "disabllowed_min":"20",
     "disabllowed_max":"22"
 }
